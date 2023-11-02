@@ -1,15 +1,8 @@
----
-title: "CLEAN CLIFcode Image"
-date:
-draft: false
----
+
+# Index
 
 If you are not being redirected to the start page please click
-[here]({{< ref "page5501091875.md" >}})
+[here](../documentation/page5766283265)
 
 Or to check all available pages please click
-[here]({{< ref "search.md" >}})
-
-<!--
-Used regex: \.md\) - 1190 matches
--->
+[here](../documentation/search)
